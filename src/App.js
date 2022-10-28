@@ -1,6 +1,6 @@
 import Header from './components/Header';
-import MovieList from './components/movieList';
 import './App.css';
+import MovieList from './components/movieList';
 import Footer from './components/Footer';
 
 function App() {
